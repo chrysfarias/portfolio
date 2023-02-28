@@ -13,6 +13,11 @@ box-sizing: border-box;
 
 
 .featured-title{
-    color: #9AF0A7;
-   
+    color: #9AF0A7;  
+}
+
+.presentation{
+    display:flex;
+    align-items: center;
+    
 }
